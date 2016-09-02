@@ -1,4 +1,4 @@
-demo_secrets
+Practicing Rails Controller Testing
 ============
 
-Shhhhh....
+[Viking Code School](www.vikingcodeschool.com) assignment to incorporate controller testing into a Rails app. 
